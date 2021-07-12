@@ -1,0 +1,93 @@
+section.banner-section{
+    padding: 50px 0px;
+    background-color: #ffffff;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    position: relative;
+    min-height:200px;
+  }
+  .black-overlay {
+    background-color: #006fa4c4;
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+  }
+  /*--------/banner-section----------*/
+     .inner-page-section {
+     padding: 60px 0px;
+     background-color: #ffffff;
+     }
+     ul.flight-points>li:before {
+      content: "\f072";
+      font-family: 'FontAwesome';
+      float: left;
+      margin-left: -1.5em;
+      color: #006d9e;
+     }
+     .page-heading {
+      text-align: center;
+      margin-bottom: 30px;
+     }
+     .page-heading h2 {
+      font-weight: 600;
+      font-size: 35px;
+      margin-top: 0px;
+      margin-bottom: 0px;
+      display: inline-block;
+      border-bottom: 3px solid #f9a315;
+      padding-bottom: 5px;
+     }
+     .in-content-box p {
+      font-weight: 300;
+      letter-spacing: 0.5px;
+      text-align: justify;
+      font-size: 15px;
+     }
+     .in-content-box {
+     box-shadow: 0px 0px 10px #00000024;
+     padding: 15px 30px;
+     margin-bottom: 15px;
+     margin-top: 10px;
+     border-top: 3px solid #f9bf08;
+     border-bottom: 2px solid #1a5586;
+     }
+     .banner-box {
+      padding: 10px;
+      box-shadow: 0px 0px 10px #00000024;
+     }
+     .media-object {
+      width: 55px;
+      height: 55px;
+      border-radius: 30px;
+     }
+     .media-heading {
+      margin-top: 20px;
+     }
+     .media.md-box {
+      box-shadow: 0px 0px 10px #00000024;
+      padding: 5px;
+      border-right: 3px solid #f9a315;
+     }
+     ol.numeric li {
+      font-weight: 300;
+      letter-spacing: 1px;
+      text-align: justify;
+    }
+    ul.list-types {
+      padding-left: inherit;
+    }
+    ul.list-types li {
+      list-style: disc !important;
+      font-weight: 300;
+      letter-spacing: 0.5px;
+      text-align: justify;
+      font-size: 15px;
+    }
+    table.table.table-bordered {
+      font-size: 15px;
+      font-weight: 300;
+      letter-spacing: 0.5px;
+    }
